@@ -27,3 +27,9 @@ For example: ex ls | ex head -2 | ex tail -3
 The shell can take the output from one command and redirect it to another
 
 For example: ex ls > list.txt
+
+## Running the program
+
+open up the directory and type 'make' to compile the shell.
+
+Then type ./sc16lep to begin the program.
